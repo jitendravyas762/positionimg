@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.images{
+    display:flex;
+    justify-content: space-around;
+    padding: 150px 70px;
+}
+.big img{
+    width:300px;
+    height: 300px;
+    border-radius: 50%;   
+}
+img{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    border:1px solid white;
+    
+    
+    
+}
+.images1{
+    position: relative;
+    
+    
+    
+    
+}
+.small1{
+    position: absolute;
+    top:0;
+    left:215px;  
+}
+.small2{
+    position:absolute;
+    top:0;
+    left:210px;
+}
+.small3{
+    position: absolute;
+    top:0;
+    left:210px;
+}
+
